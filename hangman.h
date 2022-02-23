@@ -1,3 +1,8 @@
+/**
+ * @Author Manoj Awasthi
+ * June 2006
+ */
+
 #ifndef __HANGMAN_H_
 #define __HANGMAN_H_
 

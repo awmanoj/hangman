@@ -1,3 +1,8 @@
+/**
+ * @Author Manoj Awasthi
+ * June' 2006
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <curses.h>
